@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StringToInt {
+public class SortStrings {
 	/**
 	 * Iterate through each line of input.
 	 */
